@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.edge-qa/
+.edge-qa-mobile/
+vite.log
+vite-error.log
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
